@@ -44,7 +44,7 @@ def main():
     # if offers discount is applicable will print the amount of discount
     if offers:
         for key, val in offers.items():
-            print(f"{key}:" + "£{:,.2f}".format(val))
+            print(f"{key}: " + "-£{:,.2f}".format(val))
     else:
         print("(No offers available)")
 
