@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Apples 10% off this week",
+    "buy_product_id": 4,
+    "sell_product_id": 4,
+    "buy_product_count": 1,
+    "percentage": 10
+  },
+  {
+    "id": 2,
+    "name": "Buy 2 tins of soup and get a loaf of bread at 50% off",
+    "buy_product_id": 2,
+    "sell_product_id": 3,
+    "buy_product_count": 2,
+    "percentage": 50
+  }
+]
